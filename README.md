@@ -32,6 +32,14 @@ browser:
    - **Citra:** into Citra's `load/mods` folder.
    - **3DS:** into your Luma `luma/titles` folder.
 
+### On the console, without a PC
+
+[OoT Model Manager](https://github.com/jd-contreras/oot3d-zobj-import#oot-model-manager-3ds-app) is a
+homebrew app that adds Extra Buttons to a seed on the 3DS itself, so the SD card never has to
+leave the console: make a seed, run the app, choose **Apply patch**. It also switches between
+converted character models and voice packs.
+[Download OoTModelManager.3dsx](https://github.com/jd-contreras/oot3d-zobj-import/releases/latest/download/OoTModelManager.3dsx).
+
 ### Supported seeds
 
 A seed only fits the randomizer version that made it, so there is one patch per version:
