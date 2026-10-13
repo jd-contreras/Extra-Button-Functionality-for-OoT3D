@@ -1,0 +1,11 @@
+# This repository holds only the Extra Buttons files. Randomizer checkouts and build output
+# kept next to them stay local.
+*
+!.gitignore
+!README.md
+!NOTES.md
+!LICENSE
+!item_buttons.c
+!hooks.s
+!patches.s
+!apply_extra_buttons.py
